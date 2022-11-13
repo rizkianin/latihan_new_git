@@ -2,3 +2,4 @@ resolusi:
 belajar data analyst
 belajar machine learning
 belajar web development
+belajar software engineer
